@@ -1,1 +1,1 @@
-console.Log("Max Adams");
+console.Writeline("Max Adams");
